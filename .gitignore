@@ -1,3 +1,6 @@
+# ignore answeres to programming test
+CDBS-programming-test-answers.ipynb
+
 # standard directories for virtual environments
 .env
 .venv
