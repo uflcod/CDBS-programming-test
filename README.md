@@ -12,9 +12,9 @@ If you decide to use your own resources (option 1), you will need to email both 
 
 If you decide to use the Jupyter notebook (option 2), you can return the answers to us by either: 
   1. Save the notebook as a PDF or HTML file and email the file to us. 
-  2. Upload the notebook to your own Github repository and send us a link to the notebook.  
+  2. Upload the notebook to your own GitHub repository and send us a link to the notebook.  
 
-If you decide to upload the notebook to Github, please use the [NBViewer](https://nbviewer.org/) website to create a URL for your notebook.
+If you decide to upload the notebook to GitHub, please use the [NBViewer](https://nbviewer.org/) website to create a URL for your notebook.
 
 ## Programming Exercises 
 
