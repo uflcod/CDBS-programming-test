@@ -4,13 +4,17 @@ The goal of this programming test is to assess some of the skills necessary for 
 
 You will have **two hours** to complete the test, and you are allowed to use any resources at your disposal. If you cannot complete an exercise, do as much as you can, and do not hesitate to email us if an exercise is not clear.   
 
-To perform the test, you can either (1) clone this repository and fill in the answers using the `notebooks/CDBS-programming-test.ipynb` Jupyter notebook, or (2) you can download the `data/drug_info.db` SQLite database and work on the answers using your own resources.
+To perform the test, you can either: 
+  1. Clone this repository and fill in the answers using the [notebooks/CDBS-programming-test.ipynb](notebooks/CDBS-programming-test.ipynb) Jupyter notebook. 
+  2. Download the [data/drug_info.db](data/drug_info.db) SQLite database and work on the answers using your own resources.
 
-If you decide to use the Jupyter notebook, you can return the answers to us by saving the notebook as a PDF or HTML file and emailing the files to us. You can also upload the notebook to your own Github repository and send us a link to the notebook. If you decide to upload the notebook, please use the [NBViewer](https://nbviewer.org/) website to create a URL for your notebook.
+If you decide to use your own resources (option 1), you will need to email both your **code** and the **answers**  to us. Please ensure that the files are able to be opened in a standard text editor, such as Notepad, or in MS Word.
 
-If you decide to use your own resources, you will need to email both your **code** and the **answers**  to us. Please ensure that the files are able to be opened in a standard text editor, such as Notepad, or in MS Word.
+If you decide to use the Jupyter notebook (option 2), you can return the answers to us by either: 
+  1. Save the notebook as a PDF or HTML file and email the file to us. 
+  2. Upload the notebook to your own Github repository and send us a link to the notebook.  
 
-
+If you decide to upload the notebook to Github, please use the [NBViewer](https://nbviewer.org/) website to create a URL for your notebook.
 
 ## Programming Exercises 
 
