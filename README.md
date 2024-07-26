@@ -47,3 +47,5 @@ If you decide to upload the notebook to GitHub, please use the [NBViewer](https:
 10. Use a dataframe to find the information asked for in Excercise 9.
 
 11. Using the dataframe from *Exercise 4* that subsetted the prescriptions by speciality, find the opioids prescribed for each specialty.
+
+12. Write an SQL query that produces the same information asked for in *Excercise 11*.
