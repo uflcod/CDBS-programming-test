@@ -1,6 +1,6 @@
 # University of Florida Community Dentistry and Behavioral Science Programming Test
 
-The goal of this programming test is to assess some of the skills necessary for the programmer position in the [University of Florida Department of Community Dentistry and Behavioral Science](https://dental.ufl.edu/departments/communitydentistryandbehavioralscience/). 
+The goal of this test is to assess some of the skills necessary for the data scientist position in the [University of Florida Department of Community Dentistry and Behavioral Science](https://dental.ufl.edu/departments/communitydentistryandbehavioralscience/). 
 
 You will have **two hours** to complete the test, and you are allowed to use any resources at your disposal. If you cannot complete an exercise, do as much as you can, and do not hesitate to email us if an exercise is not clear.   
 
